@@ -1,7 +1,6 @@
 ---
 name: Funktionsanfrage / Feature request
-about: Suggest an idea for this project / Schlagen Sie eine Idee für dieses Projekt
-  vor
+about: Schlagen Sie eine Idee für dieses Projekt vor. / Suggest an idea for this project
 title: "[FEATURE]"
 labels: feature
 assignees: ''

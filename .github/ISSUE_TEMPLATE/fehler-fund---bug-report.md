@@ -1,6 +1,6 @@
 ---
 name: Fehler fund / Bug report
-about: Fehlerbericht über ein Problem.
+about: Fehlerbericht über ein Problem. / Bug report
 title: "[BUG]"
 labels: bug
 assignees: ''
