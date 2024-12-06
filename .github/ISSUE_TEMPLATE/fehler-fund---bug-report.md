@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Fehler fund / Bug report
+about: Fehlerbericht über ein Problem.
 title: "[BUG]"
 labels: bug
 assignees: ''
